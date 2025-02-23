@@ -1,5 +1,5 @@
 # GRADE-CALCULATOR
-Company: Codesoft
+Company: Code Alpha
 
 Name: Keskar Sanika Subhash
 
