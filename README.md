@@ -13,3 +13,4 @@ Description : My task was creating the NUMBER-GAME using java programming langua
 
 Output:
 
+![Screenshot 2025-02-23 160916](https://github.com/user-attachments/assets/f7bfa24b-c416-44ff-b153-121f0053fa69)
